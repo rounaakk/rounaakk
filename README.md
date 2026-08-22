@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Rounak Chourasia a <b>B.Tech</b> Grad from <a href="https://www.ticollege.ac.in/"> <b>Techno Main Saltlake</b>, Kolkata, India</a>. Currently working at <b>TCS</b> as Backend Developer.
+    Hello, I am Rounak Chaurasia Currently working at <b>Amazon</b> as SDE 2.
   <br>
     <b>I am a passionate self learner</b> <img src="https://raw.githubusercontent.com/rounaakk/rounaakk/master/assets/pc1.gif" width="30"/> and <b>a Backend/Android Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc2.gif" width="36"/>
   </em> 
